@@ -34,11 +34,6 @@ Open the project folder and run the website by opening **index.html** in your br
 
 ---
 
-## Project Structure
-
-
----
-
 ## Screenshots
 
 ### Homepage
