@@ -28,7 +28,7 @@ This project contains the complete source code of the website including HTML, CS
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://dishachawhan.github.io/
 
 Open the project folder and run the website by opening **index.html** in your browser.
 
